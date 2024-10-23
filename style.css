@@ -1,0 +1,50 @@
+.user {
+  font-size: xx-large;
+  text-align: center;
+}
+.input {
+  margin-bottom: 10px;
+  width: 300px;
+  height: 40px;
+  font-size: medium;
+  padding-left: 10px;
+  border-radius: 10px;
+  background-color: yellowgreen;
+  border: none;
+  display: flex;
+  flex-direction: row;
+}
+#hind {
+  background-color: rgb(72, 84, 47);
+  color: white;
+  font-size: medium;
+  border: none;
+  width: 90px;
+  height: 29px;
+  cursor: pointer;
+  border-radius: 16px;
+
+  margin: auto;
+}
+.father-div {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 400px;
+  padding: 20px;
+  display: grid;
+  justify-content: center;
+  border-radius: 10px;
+  padding-top: 10px;
+  margin: auto;
+}
+.div-div {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+body {
+  background-image: url(download/Green\ and\ Blue.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
+}
